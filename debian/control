@@ -15,7 +15,7 @@ Vcs-Git: git://github.com/eduvpn-debian/otp.git
 Vcs-Browser: https://github.com/eduvpn-debian/otp/
 
 Package: php-christian-riesen-otp
-Architecture: any
+Architecture: all
 Depends: ${misc:Depends},
  php-common,
  php-paragonie-constant-time-encoding,
